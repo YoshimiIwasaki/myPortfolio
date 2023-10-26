@@ -6,6 +6,9 @@
 + ざんねんながら男です。。
 + 東京都生まれ育ち。現在つくばで生活中。
 
+## 実績
+[mywork.md](https://yoshimiiwasaki.github.io/myPortfolio/mywork.md)
+
 ## 経歴
 + 区立小中を卒業。
 + 2018年4月　東京都立産業技術高等専門学校(都立高専)へ進学。
