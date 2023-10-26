@@ -7,7 +7,7 @@
 + 東京都生まれ育ち。現在つくばで生活中。
 
 ## 実績
-[mywork.md](https://yoshimiiwasaki.github.io/myPortfolio/mywork.md)
+[mywork.md](/mywork.md)
 
 ## 経歴
 + 区立小中を卒業。
