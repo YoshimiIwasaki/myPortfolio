@@ -29,7 +29,7 @@
 
 ## 空冷・水冷 911 エンジン/ギアボックス オーバーホール
 
-![IMG_2481](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/aa662a39-d994-49b0-96ca-be59d76fe054)
+![IMG_9404](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/9357fac3-44c1-466d-a8b5-cea8bfc23398)
 ![IMG_7835](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/5311c057-c0e2-4752-8032-1deb2354bda5)
 
 
@@ -52,6 +52,9 @@
 
 
 ## モンゴル高専技術指導
++ 在籍していた高専からМонгол Коосэн Технологийн Коллеж(モンゴル高専)へ寄贈した、製図台や教育用5インチゲージ機関車のメンテナンス技術を指導しました。
+![IMG_2914](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/b258b64d-2bac-4b65-9266-f5f6f6527159)
+
 
 ## レザー製品製作
 + 型紙検討から対応できます。
