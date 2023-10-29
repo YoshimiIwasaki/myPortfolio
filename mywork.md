@@ -18,8 +18,20 @@
   + アルミニウム合金(アルマイト仕上げ)　ステンレス合金 / レーザー打ち抜き
 
 ## Porsche 911 ( type996.1 GT3 ) ギアボックスドライサンプ化
-+ ハードな使用をされるお客様のご要望により、G96/90ギアボックスをドライサンプ化。
++ クローズドコースにて限界を追い求めるお客様のご要望により、G96/90ギアボックスをドライサンプ化。
 + ギア油温計や油圧計など、ドライサンプでは欠かせない電装・補機類もご要望どおりにご用意いたしました。
+
+![IMG_0064](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/52646dce-59c4-4b3e-8d9f-4f1fe8d7e89d)
+ドライサンプ化されたG96/90 ギアボックス
+![IMG_5268](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/861b6469-5c17-4a1a-8cbf-eb4c0f73d331)
+油圧油温計・ポンプスイッチの取り付け
+
+
+## 空冷・水冷 911 エンジン/ギアボックス オーバーホール
+
+![IMG_2481](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/aa662a39-d994-49b0-96ca-be59d76fe054)
+![IMG_7835](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/5311c057-c0e2-4752-8032-1deb2354bda5)
+
 
 <!--
 ## 自転車用ロッドプルブレーキ 特注小部品 小ロット製作
@@ -34,6 +46,10 @@
  
 ## DJミキサー フルオーバーホール
 + メーカーによるサポートの終わってしまったDJミキサーを分解清掃し、スライダーなどを調整。
+
+![IMG_4031](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/5aaaa2ca-de7a-4a88-b6f7-6e5bbe8851f8)
+
+
 
 ## モンゴル高専技術指導
 
