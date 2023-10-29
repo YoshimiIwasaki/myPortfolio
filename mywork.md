@@ -1,12 +1,15 @@
 ## Recaroシート サイドステー 誂え
 + Racing backet seat side stay (special size)
 + Porsche 911 にてスポーツ走行を楽しむお客様のためにワンオフシートサイドステーを制作。
-+ 小柄な体格に合わせた高ハイト仕様。
++ 小柄な体格に合わせた高ハイト仕様。さらに純正品より多くのポジションに調節可能。
 + 耐久レースカー向けシートステーと同じ合金を使用することで純正品より軽く、剛性の高い仕上がりを実現。
 + 材質
   + アルミニウム合金(塗装仕上げ) / レーザー打ち抜き / 板金部品
-![IMG_2481](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/0b04f98a-d431-41c7-b44e-c6d18d1e06f1)
 
+![IMG_2481](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/0b04f98a-d431-41c7-b44e-c6d18d1e06f1)
+バケットシートに取り付けられたワンオフシートサイドステー
+![IMG_0184](https://github.com/YoshimiIwasaki/myPortfolio/assets/21331816/b7bab5bc-bb9c-45ed-9f4a-0d5eaf9377f8)
+純正シートサイドステーと、視線の高さを調節するために使われていた高ナット(上)ワンオフシートサイドステー(下)
  
 ## Porsche 911 ( type996 ) アライメント用シム製作
 + 純正シムラインナップにはない特殊厚みを制作することで、様々なセッティングに対応。
